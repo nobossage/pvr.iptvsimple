@@ -103,3 +103,11 @@ msgstr "Предпочтительно M3U"
 msgctxt "#30044"
 msgid "Prefer XMLTV"
 msgstr "Предпочтительно XMLTV"
+
+msgctxt "#30050"
+msgid "Archive"
+msgstr "Архив"
+
+msgctxt "#30051"
+msgid "Archive On"
+msgstr "Архив включить"

@@ -30,4 +30,15 @@
     <setting id="sep3" label="30040" type="lsep"/>
     <setting id="logoFromEpg" type="enum" label="30041" default="0" lvalues="30042|30043|30044"/>
   </category>
+  
+  
+  <!-- Logos -->
+  <category label="30050">
+    <setting id="sep4" label="30050" type="lsep"/>
+    <setting id="ArchOnOff" type="bool" label="30051" default="true" />
+    <!--<setting id="ArchPath" type="folder" label="30031" default="" visible="eq(-1,0)"/>
+    <setting id="ArchBaseUrl" type="text" label="30032" default="" visible="eq(-2,1)"/>
+    <setting id="sep3" label="30040" type="lsep"/>
+    <setting id="ArchFromEpg" type="enum" label="30041" default="0" lvalues="30042|30043|30044"/>-->
+  </category>
 </settings>
